@@ -176,10 +176,10 @@
             <h3>UG Courses</h3>
             <ul>
               <li><a href="#">B.Sc Mathematics</a></li>
-              <li><a href="#">B.Sc Computer & Science</a></li>
+              <li><a href="#">B.Sc Computer&Science</a></li>
               <li><a href="#">BCA</a></li>
               <li><a href="#">B.Sc Bio - Technology</a></li>
-              <li><a href="#">B.Sc Electronics & Communications</a></li>
+              <li><a href="#">B.Sc Electronics&Communications</a></li>
               <li><a href="#">B.A English</a></li>
               <li><a href="#">B.Com</a></li>
               <li><a href="#">B.Com Corporate Secretaryship</a></li>
@@ -212,7 +212,13 @@
       <div class="history-area" id="history">
         
         <div class="text-part">
+          
           <h1>History</h1>
+              <div class="founder"><img src="img/founder.jpg" alt="founder"></div>
+              <h2>Founder</h2>
+              <h3>Sri.S.Anantharamakrishnan</h3>
+            
+              
           <p>
           
             Sri Paramakalyani College was founded in 1963 by Late Sri S. Anantha ramakrishnan, a doyen of Industry in South India and a great visionary. The college is run by the Sri Paramakalyani Education Society, with Sri A. Sivasailam (Padmashree awardee) as President and Sri A. Krishnamoorthy as a member of the governing body.
@@ -259,7 +265,7 @@
        
       </div>
       <div class="footer-bottom">
-        Copyright &copy; 2020 SPKC | Designed By Vaitheeswaran
+        Copyright &copy; 2020 SPKC | Developed By Vaitheeswaran
       </div>
     </div>
 
